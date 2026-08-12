@@ -457,8 +457,6 @@ window.setTimeout(() => {
 }, 2200);
 
 setupMotionCanvas();
-setupPackageLinks();
-renderPackageDetail();
 
 const renderHeroSlide = (index) => {
   const slide = heroSlides[index];
@@ -589,6 +587,9 @@ const renderPackageDetail = () => {
     `).join("");
   }
 };
+
+setupPackageLinks();
+renderPackageDetail();
 
 const moveHeroSlide = (direction) => {
   heroIndex = (heroIndex + direction + heroSlides.length) % heroSlides.length;
