@@ -932,6 +932,10 @@ button {
   padding-top: 72px;
 }
 
+.contact-section {
+  margin-top: 32px;
+}
+
 .aurora-section {
   padding-bottom: 10px;
 }
@@ -1398,6 +1402,10 @@ button {
 #advantages,
 #blog {
   padding-top: 78px;
+}
+
+#blog .section-head {
+  max-width: 1320px;
 }
 
 .card-grid {
