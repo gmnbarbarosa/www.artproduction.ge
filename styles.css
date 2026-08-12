@@ -1499,6 +1499,13 @@ button {
   background: linear-gradient(135deg, #ff4d4d, #d90000);
 }
 
+.social-icon svg,
+.contact-icon svg {
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+
 .contact-box {
   position: relative;
   z-index: 1;
@@ -2099,7 +2106,8 @@ button {
   }
 
   .card-grid,
-  .contact-box {
+  .contact-box,
+  .static-courses {
     grid-template-columns: 1fr;
   }
 
