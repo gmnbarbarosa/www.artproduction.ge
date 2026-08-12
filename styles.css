@@ -1146,7 +1146,7 @@ button {
   background:
     radial-gradient(circle at 55% 28%, rgba(255, 255, 255, 0.18), transparent 20%),
     linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(0, 0, 0, 0.08)),
-    url("https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80") center/cover no-repeat;
+    url("https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80") center/contain no-repeat;
   clip-path: inset(0 round 0 0 0 36px);
 }
 
@@ -1159,7 +1159,10 @@ button {
 .recording-photo {
   background-image:
     linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.08)),
-    url("https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=900&q=80");
+    url("./images/record-song.jpg");
+  background-position: center, center;
+  background-size: auto, contain;
+  background-repeat: no-repeat, no-repeat;
 }
 
 .course-person-two {
@@ -1171,7 +1174,10 @@ button {
 .mixing-photo {
   background-image:
     linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.08)),
-    url("https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=900&q=80");
+    url("./images/mix-mastering.jpg");
+  background-position: center, center;
+  background-size: auto, contain;
+  background-repeat: no-repeat, no-repeat;
 }
 
 .course-person-three,
@@ -1206,13 +1212,19 @@ button {
 .video-photo {
   background-image:
     linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.08)),
-    url("https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&w=900&q=80");
+    url("./images/record-video.jpg");
+  background-position: center, center;
+  background-size: auto, contain;
+  background-repeat: no-repeat, no-repeat;
 }
 
 .podcast-photo {
   background-image:
     linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.08)),
-    url("https://images.unsplash.com/photo-1589903308904-1010c2294adc?auto=format&fit=crop&w=900&q=80");
+    url("./images/podcast.jpg");
+  background-position: center, center;
+  background-size: auto, contain;
+  background-repeat: no-repeat, no-repeat;
 }
 
 .course-badge {
