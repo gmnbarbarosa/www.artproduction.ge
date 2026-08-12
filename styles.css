@@ -1506,6 +1506,11 @@ button {
   display: block;
 }
 
+.contact-icon svg {
+  width: 18px;
+  height: 18px;
+}
+
 .contact-box {
   position: relative;
   z-index: 1;
@@ -1556,6 +1561,10 @@ button {
   color: #fff;
   font-size: 17px;
   background: linear-gradient(135deg, #8b70e8, #6e4bdf);
+}
+
+.phone-icon {
+  background: linear-gradient(135deg, #4facfe, #6e4bdf);
 }
 
 .mail-icon {
