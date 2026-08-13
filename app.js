@@ -144,6 +144,7 @@ const packageCatalog = {
     price: "500 ₾",
     format: "ინდივიდუალური / მცირე ჯგუფი",
     duration: "10 შეხვედრა",
+    badge: "Pr",
     sideTitle: "Video Editing Course",
     sideText: "Premiere Pro-ს პრაქტიკული კურსი რეალურ პროექტებზე მუშაობით.",
     coverClass: "cover-premiere",
