@@ -551,7 +551,6 @@ const renderPackageDetail = () => {
     coverNode.className = `detail-side-media ${pkg.coverClass}`;
     const embedQuery = encodeURIComponent(`${pkg.title} Art Production`);
     coverNode.innerHTML = `
-<iframe width="420" height="320" src="https://www.youtube.com/embed/6Myljc0Mzkw?si=HccaNrCfL_eV6Blr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <div class="detail-side-badge">${pkg.badge}</div>
     `;
   }
