@@ -42,9 +42,9 @@ const packageCatalog = {
       "პროფესიონალურ სტუდიურ გარემოში მუშაობის გამოცდილება"
     ],
     videos: [
-      { title: "სტუდიის გარემო", tag: "Facebook Video", text: "ნახე როგორ მიმდინარეობს რეალური recording session სტუდიაში.", href: "https://www.facebook.com/share/17hhNJJbfT/?mibextid=wwXIfr" },
-      { title: "Reel Preview", tag: "Instagram Reel", text: "მოკლე კადრები ჩაწერის პროცესიდან და აპარატურიდან.", href: "https://www.instagram.com/artproductionkutaisi?igsh=MTNzOHFnZ2F6d2ltbg==" },
-      { title: "YouTube Preview", tag: "YouTube", text: "გრძელი ვიდეოები და პროცესის ფრაგმენტები არხზე.", href: "https://youtube.com/@artproductionkutaisi?si=7Dmht4TUdUkB4oiP" }
+      { title: "სტუდიის გარემო", tag: "Facebook Video", text: "ნახე როგორ მიმდინარეობს რეალური recording session სტუდიაში.", href: "https://www.facebook.com/artproduction.ge" },
+      { title: "Reel Preview", tag: "Instagram Reel", text: "მოკლე კადრები ჩაწერის პროცესიდან და აპარატურიდან.", href: "https://www.instagram.com/artproduction.ge/" },
+      { title: "YouTube Preview", tag: "YouTube", text: "გრძელი ვიდეოები და პროცესის ფრაგმენტები არხზე.", href: "https://www.youtube.com/@artproductionge" }
     ]
   },
   "mix-mastering": {
@@ -72,9 +72,9 @@ const packageCatalog = {
       "საბოლოო მასალა გამოსაშვებად ან კლიპზე დასადებად"
     ],
     videos: [
-      { title: "Before / After Mood", tag: "Studio Demo", text: "მიქსის და mastering-ის შედეგების სტილიზებული პრევიუ.", href: "https://youtube.com/@artproductionkutaisi?si=7Dmht4TUdUkB4oiP" },
-      { title: "Mix Workflow", tag: "Instagram", text: "მოკლე workflow კადრები მონიტორინგიდან და პროექტიდან.", href: "https://www.instagram.com/artproductionkutaisi?igsh=MTNzOHFnZ2F6d2ltbg==" },
-      { title: "Client Delivery", tag: "Facebook", text: "საბოლოო შედეგების და სტუდიური პროცესის ფრაგმენტები.", href: "https://www.facebook.com/share/17hhNJJbfT/?mibextid=wwXIfr" }
+      { title: "Before / After Mood", tag: "Studio Demo", text: "მიქსის და mastering-ის შედეგების სტილიზებული პრევიუ.", href: "https://youtube.com/@artproductionge" },
+      { title: "Mix Workflow", tag: "Instagram", text: "მოკლე workflow კადრები მონიტორინგიდან და პროექტიდან.", href: "https://www.instagram.com/artproduction.ge" },
+      { title: "Client Delivery", tag: "Facebook", text: "საბოლოო შედეგების და სტუდიური პროცესის ფრაგმენტები.", href: "https://www.facebook.com/artproduction.ge" }
     ]
   },
   "video-production": {
@@ -102,9 +102,9 @@ const packageCatalog = {
       "გამოსაყენებელი მასალა რეკლამისთვის და სოციალური ქსელებისთვის"
     ],
     videos: [
-      { title: "Event Highlights", tag: "YouTube", text: "სრული ვიდეოები და highlight montage-ები არხზე.", href: "https://youtube.com/@artproductionkutaisi?si=7Dmht4TUdUkB4oiP" },
-      { title: "Reels / Shorts", tag: "Instagram", text: "მოკლე, სწრაფი და დინამიკური სოციალური ვიდეოები.", href: "https://www.instagram.com/artproductionkutaisi?igsh=MTNzOHFnZ2F6d2ltbg==" },
-      { title: "Client Showcase", tag: "Facebook", text: "რეალური გადაღებების და finished video-ს პრევიუ.", href: "https://www.facebook.com/share/17hhNJJbfT/?mibextid=wwXIfr" }
+      { title: "Event Highlights", tag: "YouTube", text: "სრული ვიდეოები და highlight montage-ები არხზე.", href: "https://www.youtube.com/@artproductionge" },
+      { title: "Reels / Shorts", tag: "Instagram", text: "მოკლე, სწრაფი და დინამიკური სოციალური ვიდეოები.", href: "https://www.tiktok.com/@artproduction.ge" },
+      { title: "Client Showcase", tag: "Facebook", text: "რეალური გადაღებების და finished video-ს პრევიუ.", href: "https://www.facebook.com/artproduction.ge" }
     ]
   },
   "podcast-space": {
@@ -132,9 +132,9 @@ const packageCatalog = {
       "მარტივი პროცესი ყოველგვარი საკუთარი ტექნიკის გარეშე"
     ],
     videos: [
-      { title: "Podcast Setup", tag: "Facebook", text: "სივრცის, განათების და აუდიოს setup-ის ვიდეო მასალა.", href: "https://www.facebook.com/share/17hhNJJbfT/?mibextid=wwXIfr" },
-      { title: "Studio Reel", tag: "Instagram", text: "მოკლე პოდკასტ-კუთხის და სტუდიური გარემოს პრევიუ.", href: "https://www.instagram.com/artproductionkutaisi?igsh=MTNzOHFnZ2F6d2ltbg==" },
-      { title: "Long Form Preview", tag: "YouTube", text: "გრძელი ფორმატის კონტენტი და მაგალითები არხზე.", href: "https://youtube.com/@artproductionkutaisi?si=7Dmht4TUdUkB4oiP" }
+      { title: "Podcast Setup", tag: "Facebook", text: "სივრცის, განათების და აუდიოს setup-ის ვიდეო მასალა.", href: "https://www.facebook.com/artproduction.ge" },
+      { title: "Studio Reel", tag: "Instagram", text: "მოკლე პოდკასტ-კუთხის და სტუდიური გარემოს პრევიუ.", href: "https://www.tiktok.com/@artproduction.ge" },
+      { title: "Long Form Preview", tag: "YouTube", text: "გრძელი ფორმატის კონტენტი და მაგალითები არხზე.", href: "https://www.youtube.com/@artproductionge" }
     ]
   },
   "premiere-pro": {
@@ -162,9 +162,9 @@ const packageCatalog = {
       "პორტფოლიოსთვის ერთი დასრულებული ნამუშევარი"
     ],
     videos: [
-      { title: "Course Preview", tag: "YouTube", text: "კურსის სტილი, გარემო და სტუდიური სწავლის ატმოსფერო.", href: "https://youtube.com/@artproductionkutaisi?si=7Dmht4TUdUkB4oiP" },
-      { title: "Editing Reel", tag: "Instagram", text: "მოკლე მონტაჟის კადრები და შედეგები.", href: "https://www.instagram.com/artproductionkutaisi?igsh=MTNzOHFnZ2F6d2ltbg==" },
-      { title: "Student Vibe", tag: "Facebook", text: "კურსის და creative environment-ის პრევიუ.", href: "https://www.facebook.com/share/17hhNJJbfT/?mibextid=wwXIfr" }
+      { title: "Course Preview", tag: "YouTube", text: "კურსის სტილი, გარემო და სტუდიური სწავლის ატმოსფერო.", href: "https://www.youtube.com/@artproductionge" },
+      { title: "Editing Reel", tag: "Instagram", text: "მოკლე მონტაჟის კადრები და შედეგები.", href: "https://www.instagram.com/artproduction.ge/" },
+      { title: "Student Vibe", tag: "Facebook", text: "კურსის და creative environment-ის პრევიუ.", href: "https://www.facebook.com/artproduction.ge" }
     ]
   },
   "after-effects": {
@@ -192,9 +192,9 @@ const packageCatalog = {
       "რეალური motion showcase პორტფოლიოსთვის"
     ],
     videos: [
-      { title: "Motion Preview", tag: "YouTube", text: "After Effects სტილის კონტენტი და სტუდიის ვიზუალური workflow.", href: "https://youtube.com/@artproductionkutaisi?si=7Dmht4TUdUkB4oiP" },
-      { title: "Animation Reel", tag: "Instagram", text: "მოკლე animated reel და dynamic visuals.", href: "https://www.instagram.com/artproductionkutaisi?igsh=MTNzOHFnZ2F6d2ltbg==" },
-      { title: "Creative Showcase", tag: "Facebook", text: "motion design-ის და creative class-ის გარემო.", href: "https://www.facebook.com/share/17hhNJJbfT/?mibextid=wwXIfr" }
+      { title: "Motion Preview", tag: "YouTube", text: "After Effects სტილის კონტენტი და სტუდიის ვიზუალური workflow.", href: "https://www.youtube.com/@artproductionge" },
+      { title: "Animation Reel", tag: "Instagram", text: "მოკლე animated reel და dynamic visuals.", href: "https://www.instagram.com/artproduction.ge/" },
+      { title: "Creative Showcase", tag: "Facebook", text: "motion design-ის და creative class-ის გარემო.", href: "https://www.facebook.com/artproduction.ge" }
     ]
   },
   "cubase": {
@@ -222,16 +222,16 @@ const packageCatalog = {
       "final demo ან beat, რომელიც თან წაიღებ"
     ],
     videos: [
-      { title: "Studio Workflow", tag: "YouTube", text: "მუსიკის შექმნის პროცესი და სტუდიური გარემო.", href: "https://youtube.com/@artproductionkutaisi?si=7Dmht4TUdUkB4oiP" },
-      { title: "Beat / Session Reel", tag: "Instagram", text: "მოკლე მუსიკალური session-ები და setup კადრები.", href: "https://www.instagram.com/artproductionkutaisi?igsh=MTNzOHFnZ2F6d2ltbg==" },
-      { title: "Production Preview", tag: "Facebook", text: "სტუდიის და პროდაქშენის ატმოსფეროს ვიდეოები.", href: "https://www.facebook.com/share/17hhNJJbfT/?mibextid=wwXIfr" }
+      { title: "Studio Workflow", tag: "YouTube", text: "მუსიკის შექმნის პროცესი და სტუდიური გარემო.", href: "https://www.youtube.com/@artproductionge" },
+      { title: "Beat / Session Reel", tag: "Instagram", text: "მოკლე მუსიკალური session-ები და setup კადრები.", href: "https://www.instagram.com/artproduction.ge/" },
+      { title: "Production Preview", tag: "Facebook", text: "სტუდიის და პროდაქშენის ატმოსფეროს ვიდეოები.", href: "https://www.facebook.com/artproduction.ge" }
     ]
   }
 };
 
 const heroSlides = [
   {
-    kicker: "ART PRODUCTION | KUTAISI",
+    kicker: "ART PRODUCTION",
     title: "მოუსმინე, გადაიღე, ჩაწერე და ისწავლე ერთ პროფესიონალურ სივრცეში",
     description: "ვიდეო გადაღება, მუსიკალური პროდაქშენი, ხმის ჩამწერი სტუდია, პოდკასტ სივრცე და პრაქტიკული კურსები ერთ გუნდთან.",
     buttonLabel: "გაიგე მეტი",
@@ -549,7 +549,7 @@ const renderPackageDetail = () => {
 
   if (coverNode) {
     coverNode.className = `detail-side-media ${pkg.coverClass}`;
-    const embedQuery = encodeURIComponent(`${pkg.title} Art Production Kutaisi`);
+    const embedQuery = encodeURIComponent(`${pkg.title} Art Production`);
     coverNode.innerHTML = `
 <iframe width="420" height="320" src="https://www.youtube.com/embed/6Myljc0Mzkw?si=HccaNrCfL_eV6Blr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       <div class="detail-side-badge">${pkg.badge}</div>
