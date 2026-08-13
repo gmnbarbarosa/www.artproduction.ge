@@ -1163,7 +1163,7 @@ button {
 .recording-photo {
   background-image:
     linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.08)),
-    url("./images/record-song.jpg");
+    url("./images/record-song.png");
   background-position: center, center;
   background-size: auto, contain;
   background-repeat: no-repeat, no-repeat;
@@ -1178,7 +1178,7 @@ button {
 .mixing-photo {
   background-image:
     linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.08)),
-    url("./images/mix-mastering.jpg");
+    url("./images/mix-mastering.png");
   background-position: center, center;
   background-size: auto, contain;
   background-repeat: no-repeat, no-repeat;
@@ -1216,7 +1216,7 @@ button {
 .video-photo {
   background-image:
     linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.08)),
-    url("./images/record-video.jpg");
+    url("./images/record-video.png");
   background-position: center, center;
   background-size: auto, contain;
   background-repeat: no-repeat, no-repeat;
@@ -1225,7 +1225,7 @@ button {
 .podcast-photo {
   background-image:
     linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.08)),
-    url("./images/podcast.jpg");
+    url("./images/podcast.png");
   background-position: center, center;
   background-size: auto, contain;
   background-repeat: no-repeat, no-repeat;
