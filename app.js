@@ -143,7 +143,7 @@ const packageCatalog = {
     summary: "ვიდეო მონტაჟის პრაქტიკული კურსი ნულიდან: timeline, cuts, sound sync, titles, export და workflow რეალური მასალით.",
     price: "500 ₾",
     format: "ინდივიდუალური / მცირე ჯგუფი",
-    duration: "10 შეხვედრა",
+    duration: "12 შეხვედრა",
     badge: "Pr",
     sideTitle: "Video Editing Course",
     sideText: "Premiere Pro-ს პრაქტიკული კურსი რეალურ პროექტებზე მუშაობით.",
