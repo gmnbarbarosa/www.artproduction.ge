@@ -1137,11 +1137,18 @@ button {
   font-weight: 500;
 }
 
-.course-person,
-.course-person-group {
+.course-person {
   position: absolute;
-  right: 0;
+  right: -5%;
   bottom: 0;
+  width: 58%;
+  height: 100%;
+
+  background-position: center right;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+
+  clip-path: inset(0 round 0 0 0 36px);
 }
 
 .course-person {
