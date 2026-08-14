@@ -1942,7 +1942,7 @@ button {
 .cover-premiere {
   background:
     linear-gradient(180deg, rgba(255,255,255,0.03), rgba(0,0,0,0.16)),
-    url("https://i.ibb.co/7xVR3GvJ/giorgigure.jpg?auto=format&fit=crop&w=1200&q=80") center/cover no-repeat;
+    url("https://raw.githubusercontent.com/gmnbarbarosa/gmn/refs/heads/main/gio.jpg?auto=format&fit=crop&w=1200&q=80") center/cover no-repeat;
 }
 
 .cover-after {
@@ -1954,7 +1954,7 @@ button {
 .cover-cubase {
   background:
     linear-gradient(180deg, rgba(255,255,255,0.03), rgba(0,0,0,0.18)),
-    url("https://i.ibb.co/7NSPPpF8/Chat-GPT-Image-Aug-13-2026-01-45-37-PM.png?auto=format&fit=crop&w=1200&q=80") center/cover no-repeat;
+    url("https://raw.githubusercontent.com/gmnbarbarosa/gmn/refs/heads/main/pajo.png?auto=format&fit=crop&w=1200&q=80") center/cover no-repeat;
 }
 
 @media (max-width: 1250px) {
