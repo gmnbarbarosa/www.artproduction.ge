@@ -486,6 +486,7 @@ const getPackageUrl = (slug) => `./package-detail.html?item=${slug}`;
 const setupPackageLinks = () => {
   document.querySelectorAll("[data-package-link]").forEach((card) => {
     const slug = card.getAttribute("data-package-link");
+
     if (!slug) {
       return;
     }
@@ -493,15 +494,35 @@ const setupPackageLinks = () => {
     card.style.cursor = "pointer";
 
     card.addEventListener("click", (event) => {
+      // თუ პირდაპირ ისარს დააჭირე, ისრის საკუთარი ბმული იმუშავებს
       if (event.target.closest("a, button")) {
         return;
       }
+
+      // მთელი ბარათის სხვა ნაწილზე დაჭერისას
+      // ვიღებთ ზუსტად იმ href-ს, რაც ისარს აქვს
+      const arrowLink = card.querySelector("a.course-circle-arrow");
+
+      if (arrowLink) {
+        window.location.href = arrowLink.href;
+        return;
+      }
+
+      // თუ ისარი საერთოდ არ აქვს, ძველი ლოგიკა დარჩეს
       window.location.href = getPackageUrl(slug);
     });
 
     card.addEventListener("keydown", (event) => {
       if (event.key === "Enter" || event.key === " ") {
         event.preventDefault();
+
+        const arrowLink = card.querySelector("a.course-circle-arrow");
+
+        if (arrowLink) {
+          window.location.href = arrowLink.href;
+          return;
+        }
+
         window.location.href = getPackageUrl(slug);
       }
     });
