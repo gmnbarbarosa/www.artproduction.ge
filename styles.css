@@ -2329,3 +2329,55 @@ footer {
 .footer-badge {
   margin: 0 auto;
 }
+/* ================================
+   CATEGORY PAGE HEADER — SAME SIZE
+   AS MAIN PAGE HEADER
+================================ */
+
+.detail-header {
+  width: 100%;
+  max-width: 1710px;
+  margin: 0 auto 18px;
+}
+
+.detail-header .header-inner {
+  min-height: 110px;
+  padding: 0 34px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.detail-header .brand {
+  min-height: 76px;
+  padding: 4px 0;
+  display: inline-flex;
+  align-items: center;
+}
+
+.detail-header .brand-logo {
+  width: clamp(190px, 15vw, 250px);
+  height: auto;
+  display: block;
+}
+
+.detail-header .main-nav {
+  display: flex;
+  align-items: center;
+  gap: 52px;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.detail-header .header-actions {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.detail-header .header-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
