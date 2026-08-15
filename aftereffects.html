@@ -112,7 +112,61 @@
 
           </main>
   </div>
+<style>
+/* კატეგორიის გვერდის ჰეადერი — ზუსტად მთავარი გვერდის ზომა */
+.detail-header {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 auto 18px !important;
+  box-sizing: border-box !important;
+}
 
+.detail-header .header-inner {
+  min-height: 110px !important;
+  height: 110px !important;
+  padding: 0 34px !important;
+
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
+.detail-header .brand-logo {
+  width: 250px !important;
+  max-width: 250px !important;
+  height: auto !important;
+}
+
+.detail-header .main-nav {
+  display: flex !important;
+  align-items: center !important;
+  gap: 52px !important;
+  font-size: 17px !important;
+}
+
+.detail-header .header-actions {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.detail-header .header-cta {
+  display: inline-flex !important;
+}
+
+/* მობილურზე */
+@media (max-width: 760px) {
+  .detail-header .header-inner {
+    min-height: 86px !important;
+    height: 86px !important;
+    padding: 0 18px !important;
+  }
+
+  .detail-header .brand-logo {
+    width: 190px !important;
+    max-width: 190px !important;
+  }
+}
+</style>
   <div class="site-credit">© 2026 Art-Production · artporduction.ge — ყველა უფლება დაცულია.</div>
 
   <script src="app.js"></script>
