@@ -2275,3 +2275,34 @@ button {
     font-size: 15px;
   }
 }
+.rules-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-top: 20px;
+  padding: 10px 24px;
+
+  border-radius: 12px;
+
+  background: linear-gradient(135deg, #8b5cf6, #6d45d9);
+  color: #fff;
+
+  font-family: "Noto Sans Georgian", Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+
+  text-decoration: none;
+
+  transition: all 0.25s ease;
+  box-shadow: 0 6px 18px rgba(110, 70, 220, 0.25);
+}
+
+.rules-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 9px 24px rgba(110, 70, 220, 0.35);
+}
+
+.rules-btn:active {
+  transform: translateY(0);
+}
