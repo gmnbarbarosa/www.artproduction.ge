@@ -2207,3 +2207,71 @@ button {
     min-height: 210px;
   }
 }
+.privacy-content {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 30px 38px 35px;
+  color: rgba(255, 255, 255, 0.9);
+  font-family: "Noto Sans Georgian", Arial, sans-serif;
+}
+
+.privacy-content h1 {
+  margin: 0 0 10px;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.privacy-content h2 {
+  margin: 26px 0 10px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.privacy-content p {
+  margin: 0 0 16px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.8;
+}
+
+.privacy-content .privacy-date {
+  margin-bottom: 22px;
+  font-size: 15px;
+  opacity: 0.75;
+}
+
+.privacy-content ul {
+  margin: 0 0 18px;
+  padding-left: 25px;
+}
+
+.privacy-content li {
+  margin-bottom: 7px;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.privacy-content strong {
+  font-weight: 700;
+}
+
+@media (max-width: 760px) {
+  .privacy-content {
+    padding: 22px 18px 28px;
+  }
+
+  .privacy-content h1 {
+    font-size: 19px;
+  }
+
+  .privacy-content h2 {
+    font-size: 17px;
+  }
+
+  .privacy-content p,
+  .privacy-content li {
+    font-size: 15px;
+  }
+}
