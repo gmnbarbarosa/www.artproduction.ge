@@ -1346,7 +1346,7 @@ button {
 .media-meta,
 .media-figma,
 .media-premiere,
-.media-after-advanced,
+.media-socmedia-advanced,
 .media-cubase-advanced {
   background:
     radial-gradient(circle at 80% 80%, rgba(152, 87, 255, 0.22), transparent 28%),
@@ -1956,10 +1956,10 @@ button {
     url("https://raw.githubusercontent.com/gmnbarbarosa/gmn/refs/heads/main/giorgi.png?auto=format&fit=crop&w=1200&q=80") center/cover no-repeat;
 }
 
-.cover-after {
+.cover-soc {
   background:
     linear-gradient(180deg, rgba(255,255,255,0.03), rgba(0,0,0,0.16)),
-    url("https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1200&q=80") center/cover no-repeat;
+    url("https://raw.githubusercontent.com/gmnbarbarosa/gmn/refs/heads/main/sdtanano.JPG?auto=format&fit=crop&w=1200&q=80") center/cover no-repeat;
 }
 
 .cover-cubase {

@@ -167,34 +167,34 @@ const packageCatalog = {
       { title: "Student Vibe", tag: "Facebook", text: "კურსის და creative environment-ის პრევიუ.", href: "https://www.facebook.com/artproduction.ge" }
     ]
   },
-  "after-effects": {
-    category: "Motion Design Course",
-    title: "After Effects",
-    summary: "motion graphics, compositing, keyframes და animated visuals პრაქტიკულად, რომ დამოუკიდებლად ააწყო თანამედროვე ვიდეო ვიზუალები.",
-    price: "650 ₾",
+  "socmedia": {
+    category: "Social Media Management",
+    title: "social-media",
+    summary: "ისწავლე სოციალური მედია და მართე შენი რეკლამები ads მენეჯერით, გაუშვი სწორ აუდიტორიაზე შენი რეკლამა",
+    price: "500 ₾",
     format: "ინდივიდუალური / მცირე ჯგუფი",
     duration: "12 შეხვედრა",
-    badge: "Ae",
-    sideTitle: "Motion Design Course",
-    sideText: "შეისწავლი ანიმაციებს, ტექსტის ეფექტებს და motion visuals-ს.",
-    coverClass: "cover-after",
+    badge: "SMM",
+    sideTitle: "თანანო თურქაძე",
+    sideText: "სოციალური მედიისა და ციფრული მარკეტინგის საფუძვლები",
+    coverClass: "cover-soc",
     outcomesTitle: "რას შეისწავლი",
     includes: [
-      "interface, layers, keyframes და graph editor",
-      "text animation, shape animation და transitions",
-      "compositing basics, masks და effects workflow",
-      "საკუთარი motion პროექტის აწყობა"
+      "კამპანიების შექმნას",
+      "ქოფის და ემოჯების სორტირებას და სწორად გამოყენებას",
+      "ADS მენეჯერს",
+      "სტატისტიკას და რეპორტების შემოწმებას"
     ],
     outcomes: [
-      "სოციალური ვიდეოებისთვის დინამიკური motion visuals",
-      "ტექსტების და ელემენტების პროფესიონალური ანიმაცია",
-      "After Effects-ში დამოუკიდებლად მუშაობის ბაზა",
-      "რეალური motion showcase პორტფოლიოსთვის"
+      "სოციალური კონტენტის ფორმატების შერჩევას",
+      "ჩატ ბოტების  აწყობას",
+      "აუდიტორიის სწორად შერჩევას",
+      "ხელოვნური ინტელექტის ჩართულობას"
     ],
     videos: [
-      { title: "Motion Preview", tag: "YouTube", text: "After Effects სტილის კონტენტი და სტუდიის ვიზუალური workflow.", href: "https://www.youtube.com/@artproductionge" },
-      { title: "Animation Reel", tag: "Instagram", text: "მოკლე animated reel და dynamic visuals.", href: "https://www.instagram.com/artproduction.ge/" },
-      { title: "Creative Showcase", tag: "Facebook", text: "motion design-ის და creative class-ის გარემო.", href: "https://www.facebook.com/artproduction.ge" }
+      { title: "სოციალური მედია", tag: "YouTube", text: "სოციალური მედიისა და ციფრული მარკეტინგის საფუძვლები.", href: "https://www.youtube.com/@artproductionge" },
+      { title: "ბრენდის იდენტობა", tag: "Instagram", text: "ბრენდის იდენტობა და პოზიციონირება.", href: "https://www.instagram.com/artproduction.ge/" },
+      { title: "Copywriting", tag: "Facebook", text: "Copywriting — ეფექტური სარეკლამო ტექსტების წერა.", href: "https://www.facebook.com/artproduction.ge" }
     ]
   },
   "cubase": {
