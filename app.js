@@ -254,7 +254,7 @@ const heroSlides = [
   },
   {
     kicker: "ACADEMY & COURSES",
-    title: "ისწავლე Premiere Pro, After Effects და Cubase პრაქტიკული მაგალითებით",
+    title: "ისწავლე Premiere Pro, Social Media და Cubase პრაქტიკული მაგალითებით",
     description: "კურსები მორგებულია დამწყებებზე და მათზე, ვისაც სწორი workflow სჭირდება რეალურ გარემოში.",
     buttonLabel: "კურსების ნახვა",
     buttonHref: "#featured-courses",
