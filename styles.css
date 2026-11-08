@@ -2362,6 +2362,7 @@ footer {
   display: block;
 }
 
+
 .detail-header .main-nav {
   display: flex;
   align-items: center;
@@ -2380,4 +2381,43 @@ footer {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+}
+.status-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 10px;
+  border-radius: 20px;
+  background: #21134b;
+  color: white;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  animation: pulse 1.5s infinite;
+}
+
+.soon .status-dot {
+  background: #ffc400;
+  box-shadow: 0 0 6px #ffc400;
+}
+
+.active .status-dot {
+  background: #00d66b;
+  box-shadow: 0 0 6px #00d66b;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.4;
+    transform: scale(1.5);
+  }
 }
